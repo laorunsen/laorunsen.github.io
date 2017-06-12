@@ -151,6 +151,11 @@ display:inline-block;
 	background-size:cover;
 	min-height:585px;
 }
+.banner4{
+	background:url(../images/bnr4.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	min-height:585px;
+}
 .rslides {
   position: relative;
   list-style: none;
@@ -1896,7 +1901,7 @@ ul.nav-bottom li a {
 .top-nav {
     width: 59%;
 }
-.banner1,.banner2,.banner3 {
+.banner1,.banner2,.banner3,.banner4 {
     min-height: 420px;
 }
 .banner-info h3 {
@@ -1923,7 +1928,7 @@ p.para {
 .top-nav {
     width: 58%;
 }
-.banner1, .banner2, .banner3 {
+.banner1, .banner2, .banner3, .banner4 {
     min-height: 385px;
 }
 .banner-info {
@@ -2105,7 +2110,7 @@ position: absolute;
     width: 50%;
 	margin-bottom:2em;
 }
-.banner1, .banner2, .banner3 {
+.banner1, .banner2, .banner3, .banner4 {
     min-height: 285px;
 }
 .b-animate button {
