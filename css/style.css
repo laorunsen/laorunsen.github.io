@@ -118,7 +118,7 @@ h1.b1,h2.b2,h3.b3 {
     font-weight: 100;
     padding: 0.5em 1.3em;
 	text-decoration:none;
-background:#ed645c;	
+background:#00a0dc;	
 display:inline-block;
 }
 .logo h1 a:hover{
@@ -308,7 +308,7 @@ span.disc {
     font-size: 0.85em;
 }
 .feature-grid:hover {
-    border-bottom:3px solid #ed645c;
+    border-bottom:3px solid #00a0dc;
 }
 .btm-sec{
 	margin-top:6em;
@@ -415,14 +415,14 @@ span.disc {
 	display:block;
 	font-size:2.2em;
 	font-family: 'Dosis-Medium';
-	color:#ed645c;
+	color:#00a0dc;
 	margin-top:0.5em;
 }
 .ofr-pic-info2  span{
 	display:block;
 	font-size:1.5em;
 	font-family: 'Dosis-Medium';
-	color:#ed645c;
+	color:#00a0dc;
 	margin-top:0.5em;
 }
 .ofr-pic-info p,.ofr-pic-info2 p{
@@ -443,7 +443,7 @@ span.disc {
 	-ms-transition: 0.5s all;
 }
 .ofr-pic-info p:hover, .ofr-pic-info2 p:hover{
-	background:#ed645c;
+	background:#00a0dc;
 }
 .ofr-pic-info2 h5{
 	display:block;
@@ -457,7 +457,7 @@ span.disc {
 }
 /*----subscribe---*/
 .subscribe{
-	background:#ed645c;
+	background:#00a0dc;
 	text-align:center;
 	padding:2em 0;
 }
@@ -534,7 +534,7 @@ ul.nav-bottom li a {
     display: inline-block;
 }
 ul.nav-bottom li a:hover{
-    color: #ed645c;
+    color: #00a0dc;
 }
 ul.nav-bottom li:nth-child(1){
 	margin:0;
@@ -555,7 +555,7 @@ ul.nav-bottom li:nth-child(1){
 	color:#fff;
 }
 .copy p a:hover{
-	color:#ed645c;
+	color:#00a0dc;
 }
 .social {
   margin: 0em 0;
@@ -705,7 +705,7 @@ background-position:-167px -36px;
 }
 .product-grid:hover {
 	z-index: 1;
-	border-bottom:2px solid #ed645c;
+	border-bottom:2px solid #00a0dc;
 }
 .more-product-info span {
 	color:#fff;
@@ -761,7 +761,7 @@ background-position:-167px -36px;
 	margin:10px 0 0px 17px;
 }
 .item_add:hover {
-	background:#ed645c;
+	background:#00a0dc;
 	color: #fff;
 } 
 .product-info-price {
@@ -1201,7 +1201,7 @@ p.para {
   line-height: 1.8em;
 }
 .single-para h5 {
-  color:#ed645c;
+  color:#00a0dc;
   font-size: 2em;
   border-bottom: 1px solid #C4C3C3;
   padding:1em 0;
@@ -1480,7 +1480,7 @@ a.order {
   margin:3em 0;
 }
 a.order:hover{
-	background:#ed645c;
+	background:#00a0dc;
 }
 .total-item,.cart-items{
 	margin-top:0em;
@@ -1500,7 +1500,7 @@ a.order:hover{
 	margin-right:4em;
 }
 a.cpns{
-	background:#ed645c;
+	background:#00a0dc;
 	color:#fff;
 	padding: 10px;
 	font-size: 0.8em;
@@ -1531,7 +1531,7 @@ a.continue{
    margin-bottom:2em;
 }
 a.continue:hover{
-	background:#ed645c;
+	background:#00a0dc;
 }
 ul.total_price{
 	padding: 0;
@@ -1686,7 +1686,7 @@ display:inline-block;
 -o-transition: 0.5s all;
 }
 .log form input[type="submit"]:hover,a.acount-btn:hover{
-	background:#ed645c;
+	background:#00a0dc;
 	color:#fff;
 	text-decoration:none;
 }
@@ -1834,7 +1834,7 @@ label {
 	-webkit-transition: 0.5s ease;	
 }
 .registration_form input[type="submit"]:hover{
-	background:#ed645c;
+	background:#00a0dc;
 }
 .terms{
 	text-decoration:underline;
